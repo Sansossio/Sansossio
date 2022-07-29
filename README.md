@@ -1,5 +1,3 @@
-# Hi there, I'm Julio Sansossio 👋
-
 <div align="center">
   <a href="https://github.com/Sansossio">
     <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=Sansossio&show_icons=true&theme=dark">
